@@ -6,6 +6,7 @@ Proyek ini bertujuan untuk mendeteksi kendaraan secara visual menggunakan model 
 - Mengelompokkan kategori kendaraan berdasarkan jenisnya.
 - Menentukan bobot tiap jalur menggunakan pendekatan **weighted graph**.
 - Mengoptimalkan durasi lampu lalu lintas berdasarkan bobot yang telah dihitung.
+  
 Proyek ini dikembangkan dalam rangka kompetisi **National Youth Competition 3.0**, khususnya dalam kategori **Article Writing Competition**.
 
 ## Teknologi dan Framework
@@ -21,6 +22,7 @@ This project aims to visually detect vehicles using the **YOLOv6** base model. T
 - Categorizing vehicles based on their type.
 - Assigning weights to each lane using a **weighted graph** approach.
 - Optimizing traffic light duration based on the calculated weights.
+  
 This project is developed for the **National Youth Competition 3.0**, specifically in the **Article Writing Competition** category.
 
 ## Technologies and Frameworks
